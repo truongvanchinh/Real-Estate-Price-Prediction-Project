@@ -7,3 +7,5 @@ This is a project I learned on YouTube with the codebasics channel:
 * Load Model
 * Use Flask Server
 * Create UI/UX website
+* Learn use Postman
+* JQuery
